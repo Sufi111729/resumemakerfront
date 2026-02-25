@@ -5,7 +5,7 @@ import { arrayMove, SortableContext, verticalListSortingStrategy, useSortable } 
 import { CSS } from "@dnd-kit/utilities";
 import { useParams } from "react-router-dom";
 import { Input } from "../../components/ui/Input";
-import { Textarea } from "../../components/ui/Textarea";
+import { Textarea } from "../../components/ui/TextArea";
 import { Button } from "../../components/ui/Button";
 import { Badge } from "../../components/ui/Badge";
 import { Card } from "../../components/ui/Card";
